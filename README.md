@@ -1,6 +1,7 @@
 ### Hi there 👋 
 I am major in SJTU SE(software engineering). I love CG and fiction films. 
 
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=waleve&show_icons=true)
 <!--
 **waleve/waleve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
