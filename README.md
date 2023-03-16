@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 
+I am major in SJTU SE(software engineering). I love CG and fiction films. 
 
 <!--
 **waleve/waleve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
